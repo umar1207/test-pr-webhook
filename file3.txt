@@ -1,2 +1,2 @@
 contents of file 3 goes here
-end
+eof
